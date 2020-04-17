@@ -2,7 +2,7 @@
 
 - Clean the data with Panda
 -	Implemented CNN(Keras) for classification of handwritten images
-- Implemented Data Augmentation by by shift and rotation
+- Implemented Data Augmentation by shift and rotation
 - Designed Learning Rate Rule for optimization
 - Tuned the Model by training and validation curves
 - Checked the confusion matrix for Model Evaluation
