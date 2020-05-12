@@ -1,6 +1,6 @@
 # Digit-Recognizer
 
-- Clean the data with Panda
+- ETL the data with Panda
 -	Implemented CNN(Keras) for classification of handwritten images
 - Implemented Data Augmentation by shift and rotation
 - Designed Learning Rate Rule for optimization
